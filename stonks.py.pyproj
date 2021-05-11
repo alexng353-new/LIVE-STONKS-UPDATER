@@ -27,6 +27,7 @@
     <Content Include="assets\devportal.png" />
     <Content Include="config.ini" />
     <Content Include=".gitignore" />
+    <Content Include="example config.ini" />
     <Content Include="README.md" />
   </ItemGroup>
   <ItemGroup>
