@@ -8,6 +8,8 @@ description = '''Quoter bot
 
 DATA FROM YAHOO FINANCE
 
+NOTE: USE SLOWQUOTER FOR STOCKS THAT UPDATE LIVE
+
 Commands:'''
 
 intents = discord.Intents.default()
