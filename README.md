@@ -6,6 +6,6 @@ Create a discord developer application [here](https://discord.com/developers/app
 ### Install libraries with pip:
 `pip install "library"`
 
-![devportal](github.com/alexng353-new/LIVE-STONKS-UPDATER/assets/devportal.png)
+![devportal](https://github.com/alexng353-new/LIVE-STONKS-UPDATER/blob/master/assets/devportal.png)
 
 ### 
